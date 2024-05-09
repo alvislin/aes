@@ -137,3 +137,8 @@ Removing the decipher module yields:
 - 2989 regs
 - 97 MHz
 - 46 cycles/block
+
+License
+This project is licensed under The MIT License (MIT), see the LICENSE file for more details.
+
+This project is tested with BrowserStack.
